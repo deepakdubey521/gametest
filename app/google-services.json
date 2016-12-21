@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "228824004376",
+    "firebase_url": "https://gmestoretest.firebaseio.com",
+    "project_id": "gmestoretest",
+    "storage_bucket": "gmestoretest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228824004376:android:86dc1403b77b044b",
+        "android_client_info": {
+          "package_name": "com.hiveinside.gamestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228824004376-kvg1k2d50l3llk0app64uciad02o3aiq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEmNHTNdfbaP4ElvhIJqFaytCPaRStUug"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228824004376:android:3900d6a01fd2af43",
+        "android_client_info": {
+          "package_name": "com.example.gamestest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228824004376-kvg1k2d50l3llk0app64uciad02o3aiq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEmNHTNdfbaP4ElvhIJqFaytCPaRStUug"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
